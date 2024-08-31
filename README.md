@@ -1,16 +1,21 @@
-# tdd
 
-A new Flutter project.
+# TDD with Clean Architecture 
 
-## Getting Started
+A Flutter app to get random number or search for specific one and represent the last cached number if no internet found using Clean Architecture and Test Driven Development (TDD).
 
-This project is a starting point for a Flutter application.
+# Project Structure 🛠
+![fqeiepngw5aeco73r3wx](https://github.com/user-attachments/assets/c9df8d15-ff73-4285-9b9a-77b2280589fa)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Packages 💻
+- bloc
+- get_it  
+- mockito 
+- build_Runner 
+- dartz
+- http
+- shared_preferences
+- data_connection_checker_nulls
+# Screenshot 📱
+![image](https://github.com/user-attachments/assets/9e580893-c6c7-4769-a3d7-5c31e2086bb6)
